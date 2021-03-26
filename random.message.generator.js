@@ -1,6 +1,6 @@
-const greeting = [1,2,3,]; //['Good morning', 'Hello there', 'Nice day we\'re having',]
-const personAddressed = [1,2,3,]; //['stranger!', 'friend!', 'boss!']
-const ending = [1,2,3,]; //['Another day another dollar!', 'Wonder what\'ll happen today?', 'Nice to have some sun after all that rain.']
+const greeting = ['Good morning', 'Hello there', 'Nice day we\'re having',];
+const personAddressed = ['stranger.', 'friend.', 'boss.'];
+const ending = ['Another day another dollar!', 'Wonder what\'ll happen today?', 'Nice to have some sun after all that rain.'];
 
 const message = ()=>{
     let i = Math.floor(Math.random() * 3)
