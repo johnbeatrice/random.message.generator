@@ -1,2 +1,2 @@
 # random.message.generator
-Generates a random message 
+Generates a random greeting
